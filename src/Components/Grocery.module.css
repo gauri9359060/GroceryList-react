@@ -1,0 +1,50 @@
+.container{
+    color: snow;
+    width: 50%;
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px rgb(99, 96, 96);
+}
+
+.list{
+    color: white;
+    font-size: 30px;
+    background-color: teal;
+    width: 80%;
+    margin: auto;
+    font-weight: 700;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px teal;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.delBtn{
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+.inputBox{
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px 5px blue;
+    color: teal;
+}
+.addBtn{
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    border: 10px solid red;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
